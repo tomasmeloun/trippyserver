@@ -135,5 +135,192 @@
   "Rating": 4.78,
   "Theme": "Italian, Pasta, Pizza",
   "Description": "There's vomit on your sweater already"
- }
+ },
+ {
+     "ID": 15,
+     "Name": "Lumberjack's Log Cabin",
+     "Type": "Hotel",
+     "Country": "Canada",
+     "City": "Vancouver",
+     "Price range": "$$$",
+     "Rating": 4.7,
+     "Theme": "Rustic",
+     "Description": "Feel the real Canadian spirit in our cozy log cabin hotel. Just remember, we don't actually provide axes for log cutting!"
+ },
+ {
+     "ID": 16,
+     "Name": "Fromage a Trois",
+     "Type": "Restaurant",
+     "Country": "France",
+     "City": "Paris",
+     "Price range": "$$$$",
+     "Rating": 4.9,
+     "Theme": "French",
+     "Description": "Cheese lovers, unite! In Fromage a Trois, we offer the widest selection of French cheeses. Careful, it's easy to get caught in a cheesy love triangle here!"
+ },
+ {
+     "ID": 17,
+     "Name": "Jeeves & Wooster's",
+     "Type": "Bar",
+     "Country": "United Kingdom",
+     "City": "London",
+     "Price range": "$$$",
+     "Rating": 4.5,
+     "Theme": "British",
+     "Description": "Get served by your personal Jeeves at our classic British bar. Old fashioned? Always. Out of style? Never."
+ },
+ {
+     "ID": 18,
+     "Name": "Taco 'bout It",
+     "Type": "Restaurant",
+     "Country": "Mexico",
+     "City": "Mexico City",
+     "Price range": "$",
+     "Rating": 4.3,
+     "Theme": "Mexican",
+     "Description": "Want to taco 'bout delicious food? Look no further. You'll be so full, you won't have room for words."
+ },
+ {
+     "ID": 19,
+     "Name": "Tipsy Teapot",
+     "Type": "Bar",
+     "Country": "China",
+     "City": "Beijing",
+     "Price range": "$$",
+     "Rating": 4.2,
+     "Theme": "Chinese",
+     "Description": "Our teapots might be tipsy, but our service is always on point. Join us for a fusion of traditional Chinese teas and modern mixology."
+ },
+ {
+     "ID": 20,
+     "Name": "Ciao Chow",
+     "Type": "Restaurant",
+     "Country": "Italy",
+     "City": "Rome",
+     "Price range": "$$$",
+     "Rating": 4.8,
+     "Theme": "Italian",
+     "Description": "At Ciao Chow, we mix the best of Italian cuisine with...more Italian cuisine! Because you can never have too much pasta, right?"
+ },
+ {
+     "ID": 21,
+     "Name": "Infinity Suites",
+     "Type": "Hotel",
+     "Country": "USA",
+     "City": "New York",
+     "Price range": "$$$$",
+     "Rating": 4.9,
+     "Theme": "Modern",
+     "Description": "Infinity is not always a big number. Sometimes, it's just a very, very comfortable bed in a high-end suite overlooking Manhattan."
+ },
+ {
+         "ID": 22,
+         "Name": "Bed, Bath, and Breakfast",
+         "Type": "Hotel",
+         "Country": "USA",
+         "City": "San Francisco",
+         "Price range": "$$$",
+         "Rating": 4.7,
+         "Theme": "Comfort",
+         "Description": "We took a popular store concept and made it better - by adding a breakfast! Enjoy the most comfortable stay and the most important meal of the day."
+     },
+     {
+         "ID": 23,
+         "Name": "Eat Pray Sushi",
+         "Type": "Restaurant",
+         "Country": "Japan",
+         "City": "Tokyo",
+         "Price range": "$$$$",
+         "Rating": 5.0,
+         "Theme": "Japanese",
+         "Description": "No need for a lengthy journey of self-discovery - all the enlightenment you need can be found in our delicious sushi rolls."
+     },
+     {
+         "ID": 24,
+         "Name": "The Code Bar",
+         "Type": "Bar",
+         "Country": "Silicon Valley",
+         "City": "San Jose",
+         "Price range": "$$",
+         "Rating": 3.9,
+         "Theme": "Tech",
+         "Description": "A place where Java isn't just a drink order and Python isn't a snake. Enjoy our byte-sized appetizers and WiFi-infused cocktails."
+     },
+     {
+         "ID": 25,
+         "Name": "Poutine Machine",
+         "Type": "Restaurant",
+         "Country": "Canada",
+         "City": "Montreal",
+         "Price range": "$",
+         "Rating": 4.5,
+         "Theme": "Canadian",
+         "Description": "Our dishes are a gravy train of deliciousness. With our poutine, every day is Fry-day."
+     },
+     {
+         "ID": 26,
+         "Name": "The Speakeasy Assembler",
+         "Type": "Bar",
+         "Country": "Germany",
+         "City": "Berlin",
+         "Price range": "$$$",
+         "Rating": 4.8,
+         "Theme": "Prohibition",
+         "Description": "Return to the 1920s with our clandestine bar. We don't keep the secret of making great cocktails hidden though."
+     },
+     {
+         "ID": 27,
+         "Name": "Holy Crepe!",
+         "Type": "Restaurant",
+         "Country": "France",
+         "City": "Nice",
+         "Price range": "$$",
+         "Rating": 4.6,
+         "Theme": "French",
+         "Description": "Prepare for an almost religious experience with our heavenly crepes. Sinfully delicious and divine in every bite."
+     },
+     {
+         "ID": 28,
+         "Name": "Mount Neverest",
+         "Type": "Hotel",
+         "Country": "Nepal",
+         "City": "Kathmandu",
+         "Price range": "$$$",
+         "Rating": 4.5,
+         "Theme": "Adventure",
+         "Description": "Reach new heights of comfort without the need for a climbing gear. Mount Neverest - the peak of luxury."
+     },
+     {
+         "ID": 29,
+         "Name": "Ctrl+Alt+Delicious",
+         "Type": "Restaurant",
+         "Country": "India",
+         "City": "Bangalore",
+         "Price range": "$",
+         "Rating": 4.3,
+         "Theme": "Indian",
+         "Description": "Reboot your taste buds with our exceptional cuisine. This is one error message your stomach will thank you for."
+     },
+     {
+         "ID": 30,
+         "Name": "The Frothy Programmer",
+         "Type": "Bar",
+         "Country": "USA",
+         "City": "Seattle",
+         "Price range": "$$",
+         "Rating": 4.1,
+         "Theme": "Tech",
+         "Description": "Debug your thirst at The Frothy Programmer, where our drinks are never short on bytes."
+     },
+     {
+         "ID": 31,
+         "Name": "Royal Flush Hotel",
+         "Type": "Hotel",
+         "Country": "Monaco",
+         "City": "Monte Carlo",
+         "Price range": "$$$$",
+         "Rating": 5.0,
+         "Theme": "Luxury",
+         "Description": "You won't need a poker face to show your excitement while staying at our upscale hotel. The Royal Flush Hotel, where everyone feels like a high roller."
+     }
 ]
