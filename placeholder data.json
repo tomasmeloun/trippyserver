@@ -322,5 +322,225 @@
          "Rating": 5.0,
          "Theme": "Luxury",
          "Description": "You won't need a poker face to show your excitement while staying at our upscale hotel. The Royal Flush Hotel, where everyone feels like a high roller."
-     }
+     },
+  {
+        "ID": 32,
+        "Name": "Ravioliday Inn",
+        "Type": "Hotel",
+        "Country": "Italy",
+        "City": "Rome",
+        "Price range": "$$$",
+        "Rating": 4.7,
+        "Theme": "Historical",
+        "Description": "Experience the past with the comforts of the present at the Ravioliday Inn, where history meets luxury."
+    },
+    {
+        "ID": 33,
+        "Name": "Burger Monarchy",
+        "Type": "Restaurant",
+        "Country": "England",
+        "City": "London",
+        "Price range": "$$",
+        "Rating": 4.4,
+        "Theme": "American",
+        "Description": "Experience American cuisine with an English twist. All hail the Burger Monarchy!"
+    },
+    {
+        "ID": 34,
+        "Name": "Brew Tang Clan",
+        "Type": "Bar",
+        "Country": "USA",
+        "City": "New York",
+        "Price range": "$$$",
+        "Rating": 4.6,
+        "Theme": "Hip Hop",
+        "Description": "The Brew Tang Clan ain't nothing to clink with! Join us for rhythm, rhymes and beer times."
+    },
+    {
+        "ID": 35,
+        "Name": "The Churrosboro Hotel",
+        "Type": "Hotel",
+        "Country": "Spain",
+        "City": "Barcelona",
+        "Price range": "$$$",
+        "Rating": 4.8,
+        "Theme": "Modern",
+        "Description": "Indulge in the sweet life at The Churrosboro Hotel, where every day feels like a fiesta."
+    },
+    {
+        "ID": 36,
+        "Name": "The Salty Pretzel",
+        "Type": "Restaurant",
+        "Country": "Germany",
+        "City": "Munich",
+        "Price range": "$",
+        "Rating": 4.5,
+        "Theme": "German",
+        "Description": "Join us for a twist on traditional German cuisine at The Salty Pretzel. Prost!"
+    },
+    {
+        "ID": 37,
+        "Name": "The Overflow Pub",
+        "Type": "Bar",
+        "Country": "Ireland",
+        "City": "Dublin",
+        "Price range": "$$",
+        "Rating": 4.3,
+        "Theme": "Traditional",
+        "Description": "Our pints and stories overflow at The Overflow Pub. There's no better place to soak up Irish tradition."
+    },
+    {
+        "ID": 38,
+        "Name": "Baguetteaway Hotel",
+        "Type": "Hotel",
+        "Country": "France",
+        "City": "Paris",
+        "Price range": "$$$$",
+        "Rating": 5.0,
+        "Theme": "Romantic",
+        "Description": "Fall in love with the city of lights from the comfort of Baguetteaway Hotel. A slice of heaven in the heart of Paris."
+    },
+    {
+        "ID": 39,
+        "Name": "Taco'bout Delicious",
+        "Type": "Restaurant",
+        "Country": "Mexico",
+        "City": "Mexico City",
+        "Price range": "$$",
+        "Rating": 4.9,
+        "Theme": "Mexican",
+        "Description": "We need to taco'bout how delicious our food is. You won't believe it until you taste it."
+    },
+    {
+        "ID": 40,
+        "Name": "The Pour Decision",
+        "Type": "Bar",
+        "Country": "Canada",
+        "City": "Vancouver",
+        "Price range": "$$",
+        "Rating": 4.2,
+        "Theme": "Casual",
+        "Description": "The only poor decision you could make is not coming to The Pour Decision. Join us for great drinks and even better times."
+    },
+    {
+        "ID": 41,
+        "Name": "Comfort Inn-cognito",
+        "Type": "Hotel",
+        "Country": "Australia",
+        "City": "Sydney",
+        "Price range": "$$$",
+        "Rating": 4.6,
+        "Theme": "Relaxation",
+        "Description": "Relaxation and privacy is our game at Comfort Inn-cognito. Slip into comfort and out of the limelight."
+    },
+  {
+        "ID": 42,
+        "Name": "Spaghetti Junction Inn",
+        "Type": "Hotel",
+        "Country": "Italy",
+        "City": "Naples",
+        "Price range": "$$",
+        "Rating": 4.2,
+        "Theme": "Pasta, Confusing Roads",
+        "Description": "Get lost in the sauce and our nonsensical city layout! Best viewed with a bowl of our signature spaghetti."
+    },
+    {
+        "ID": 43,
+        "Name": "Croissant Moon Hotel",
+        "Type": "Hotel",
+        "Country": "France",
+        "City": "Paris",
+        "Price range": "$$$$",
+        "Rating": 5.0,
+        "Theme": "Baguette, Cheese, Strike",
+        "Description": "Experience the true Parisian lifestyle – fresh baked bread, artisanal cheese, and the occasional workers' strike. Très authentique!"
+    },
+    {
+        "ID": 44,
+        "Name": "Big Ben's Burger Bonanza",
+        "Type": "Restaurant",
+        "Country": "England",
+        "City": "London",
+        "Price range": "$$",
+        "Rating": 4.4,
+        "Theme": "Overcooked, Polite Apologies",
+        "Description": "Where the burgers are as well-done as the Queen's English and the apologies are as frequent as rain. Sorry!"
+    },
+    {
+        "ID": 45,
+        "Name": "Hofbräuhaus Light",
+        "Type": "Bar",
+        "Country": "Germany",
+        "City": "Munich",
+        "Price range": "$$",
+        "Rating": 4.5,
+        "Theme": "Beer, Efficiency",
+        "Description": "Perfectly timed happy hours and beers served with German precision. Because who has time for anything less than perfection?"
+    },
+    {
+        "ID": 46,
+        "Name": "Mountie's Tavern",
+        "Type": "Bar",
+        "Country": "Canada",
+        "City": "Ottawa",
+        "Price range": "$$",
+        "Rating": 4.3,
+        "Theme": "Apologies, Maple Syrup",
+        "Description": "We're sorry, but you'll have to try our maple-infused brew. And our poutine. We're sorry for that too. Did we apologize yet?"
+    },
+    {
+        "ID": 47,
+        "Name": "Eagle's Nest Diner",
+        "Type": "Restaurant",
+        "Country": "USA",
+        "City": "New York",
+        "Price range": "$$",
+        "Rating": 4.6,
+        "Theme": "Excess, Freedom",
+        "Description": "Experience dining in the land of the free and the home of the extra large. Portions as big as our patriotism!"
+    },
+    {
+        "ID": 48,
+        "Name": "Matador's Retreat",
+        "Type": "Hotel",
+        "Country": "Spain",
+        "City": "Madrid",
+        "Price range": "$$$",
+        "Rating": 4.8,
+        "Theme": "Siesta, Tapas",
+        "Description": "Enjoy the thrill of the bullfighting spirit, then retreat to your room for a midday siesta. Tapas provided upon waking."
+    },
+    {
+        "ID": 49,
+        "Name": "Pierogi Palace",
+        "Type": "Restaurant",
+        "Country": "Poland",
+        "City": "Krakow",
+        "Price range": "$",
+        "Rating": 4.7,
+        "Theme": "Hearty, Unpronounceable",
+        "Description": "Fill up on traditional Polish dumplings and other dishes you can't pronounce. But trust us, they're delicious!"
+    },
+    {
+        "ID": 50,
+        "Name": "Koala Suites",
+        "Type": "Hotel",
+        "Country": "Australia",
+        "City": "Sydney",
+        "Price range": "$$$",
+        "Rating": 4.9,
+        "Theme": "Dangerous Wildlife, BBQ",
+        "Description": "Relax on the beach, throw a shrimp on the barbie, but watch out for the drop bears! They're worse than the spiders."
+    },
+    {
+        "ID": 51,
+        "Name": "Borsch Bed & Breakfast",
+        "Type": "Hotel",
+        "Country": "Russia",
+        "City": "Moscow",
+        "Price range": "$$",
+        "Rating": 4.5,
+        "Theme": "Vodka, Cold",
+        "Description": "Experience the true Russian welcome with a shot of vodka upon arrival. It'll keep you warm in the harsh Moscow winter!"
+    }
 ]
