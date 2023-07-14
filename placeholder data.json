@@ -1,0 +1,139 @@
+[
+ {
+  "ID": 1,
+  "Name": "J-son's restaurant",
+  "Type": "Restaurant",
+  "Country": "Spain",
+  "City": "Barcelona",
+  "Price range": "$$$",
+  "Rating": 4.9
+ },
+ {
+  "ID": 2,
+  "Name": "Hard R hotel",
+  "Type": "Hotel",
+  "Country": "Italy",
+  "City": "Milan",
+  "Price range": "$$",
+  "Rating": 3.81
+ },
+ {
+  "ID": 3,
+  "Name": "Python's lair",
+  "Type": "Hotel",
+  "Country": "Germany",
+  "City": "Berlin",
+  "Price range": "$",
+  "Rating": 4.24
+ },
+ {
+  "ID": 4,
+  "Name": "Java's Script",
+  "Type": "Restaurant",
+  "Country": "Germany",
+  "City": "Munich",
+  "Price range": "$$",
+  "Rating": 4.51
+ },
+ {
+  "ID": 5,
+  "Name": "PHP's pee pee",
+  "Type": "Restaurant",
+  "Country": "Germany",
+  "City": "Berlin",
+  "Price range": "$$$",
+  "Rating": 3.1
+ },
+ {
+  "ID": 6,
+  "Name": "C plus plus plus plus",
+  "Type": "Restaurant",
+  "Country": "Germany",
+  "City": "Frankfurt",
+  "Price range": "$$$$",
+  "Rating": 3.89,
+  "Theme": "Seafood, Sushi, Pizza"
+ },
+ {
+  "ID": 7,
+  "Name": "Sharply C anything you want Dentistry",
+  "Type": "Restaurant",
+  "Country": "Germany",
+  "City": "Berlin",
+  "Price range": "$$",
+  "Rating": 2.1,
+  "Theme": "Mediterranean"
+ },
+ {
+  "ID": 8,
+  "Name": "Mr. Great Hotel Anything You Want Good Price",
+  "Type": "Hotel",
+  "Country": "Germany",
+  "City": "Berlin",
+  "Price range": "$",
+  "Rating": 1,
+  "Description": "U fullfil your desire stay with us no?"
+ },
+ {
+  "ID": 9,
+  "Name": "Creampie dreamland",
+  "Type": "Hotel",
+  "Country": "Germany",
+  "City": "Berlin",
+  "Price range": "$",
+  "Rating": 4.95,
+  "Description": "Creampie dreamland is where all your dreams come true"
+ },
+ {
+  "ID": 10,
+  "Name": "Your mom's kitchen",
+  "Type": "Restaurant",
+  "Country": "Czech Republic",
+  "City": "Milevsko",
+  "Price range": "$$$$",
+  "Rating": 5,
+  "Theme": "Czech, Asian",
+  "Description": "Michael's mom can cook some mapo tofu"
+ },
+ {
+  "ID": 11,
+  "Name": "Mini Diva's suckery",
+  "Type": "Bar",
+  "Country": "Czech Republic",
+  "City": "Brno",
+  "Price range": "$$$$",
+  "Rating": 4.55,
+  "Theme": "Czech"
+ },
+ {
+  "ID": 12,
+  "Name": "Stefan's dungeon",
+  "Type": "Hotel",
+  "Country": "Macedonia",
+  "City": "Skopje",
+  "Price range": "$",
+  "Rating": 1,
+  "Theme": "Prison"
+ },
+ {
+  "ID": 13,
+  "Name": "U Šukánka",
+  "Type": "Bar",
+  "Country": "Czech Republic",
+  "City": "Prague",
+  "Price range": "$$",
+  "Rating": 3.6,
+  "Theme": "Czech"
+ },
+ {
+  "ID": 14,
+  "Name": "Mom's spaghetti",
+  "Type": "Restaurant",
+  "Country": "United Kingdom",
+  "City": "London",
+  "Price range": "$$$",
+  "Rating": 4.78,
+  "Theme": "Italian, Pasta, Pizza",
+  "Description": "There's vomit on your sweater already"
+ }
+]
